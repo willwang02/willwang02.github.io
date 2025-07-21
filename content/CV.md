@@ -3,7 +3,7 @@ date = '2025-07-21T14:23:49+08:00'
 draft = false
 title = 'CV'
 +++
-
+You can download my CV via the following link.  
 [CV.pdf](/files/cv.pdf)
 
 <!-- ---
