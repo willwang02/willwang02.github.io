@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Will Wang&#39;s Blog</title>
+    <title>Posts on Will Wang</title>
     <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on Will Wang&#39;s Blog</description>
+    <description>Recent content in Posts on Will Wang</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 20 Jul 2025 01:16:42 +0800</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/post/my-first-post/</link>
       <pubDate>Sun, 20 Jul 2025 01:16:42 +0800</pubDate>
       <guid>http://localhost:1313/post/my-first-post/</guid>
-      <description>&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;&#34;&gt;&#xD;&#xA;  &#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;</description>
     </item>
   </channel>
 </rss>

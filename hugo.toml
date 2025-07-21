@@ -1,5 +1,5 @@
 baseurl = "http://www.example.com"
-title = "Will Wang's Blog"
+title = "Will Wang"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -64,9 +64,13 @@ style = "github-dark"
 # Menu links
 [[menu.main]]
   name = "Blog"
-  weight = 1
+  weight = 2
   url  = "post/"
 [[menu.main]]
+  name = "CV"
+  weight = 1
+  url = "CV/"
+[[menu.main]]
   name = "About"
-  weight = 2
+  weight = 3
   url = "about/"
