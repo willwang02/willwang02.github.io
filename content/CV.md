@@ -4,7 +4,7 @@ draft = false
 title = 'CV'
 +++
 You can download my CV via the following link.  
-[CV.pdf](/files/cv.pdf)
+<!-- [CV.pdf](/files/cv.pdf) -->
 
 <!-- ---
 
